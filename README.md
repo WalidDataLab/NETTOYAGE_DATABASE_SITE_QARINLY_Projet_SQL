@@ -4,7 +4,7 @@
 
 ## 📌 Contexte du projet
 
-**QARINLY** est un site web (qarinly.com) qui référence des milliers de téléphones et appareils mobiles (Apple, Samsung, Huawei, LG, Xiaomi, Honor...) stockés dans une base de données MySQL (`u727898215_qarinlydb`).
+QARINLY est un site web disponible sur **[qarinly.com](https://qarinly.com)** qui référence des milliers de téléphones et appareils mobiles (Apple, Samsung, Huawei, LG, Xiaomi, Honor...) stockés dans une base de données MySQL (`qarinlydb.sql`).
 
 Les données provenaient de sources brutes (imports GSMArena / fournisseurs) et contenaient énormément de **doublons** et de **noms mal formatés** : codes régionaux, tailles de stockage, versions, codes modèles... Le tout mélangé dans un seul champ `name`.
 
