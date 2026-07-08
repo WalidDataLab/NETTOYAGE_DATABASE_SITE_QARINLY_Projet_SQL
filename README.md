@@ -144,7 +144,7 @@ Dernière étape : un contrôle visuel des résultats en jointant la table `bran
 
 Ce processus (backup → `base_name` → détection doublons → suppression → renommage → nettoyage colonne) a été répété marque par marque (`brand_id`) pour : **Apple, Samsung, Huawei, LG, Xiaomi, Honor**, en adaptant à chaque fois les motifs regex aux spécificités de nommage de chaque marque.
 
-![Exemple de résultat - Samsung](./images/before_after_image_section.png)
+![Exemple de résultat - Samsung](./images/resultat.png)
 
 ---
 
